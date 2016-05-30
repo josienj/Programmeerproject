@@ -5,11 +5,11 @@ When students live in houses with shared facilities, there often is time for dri
 ### Features
 The app will have different features, the most basic  and required features are the following:
 -	Able to make groups and invite people by mail
--	Keeps track of who buys what drinks at what price
--	Keeps track of who drinks what by tally every drink you take
--	Keeps track of the balance of every user 
--	Keeps track of the stock<br><br>
-When the time allows it, there will also be additional features:
+-	Keep track of who buys what drinks at what price
+-	Keep track of who drinks what by tally every drink you take
+-	Keep track of the balance of every user 
+-	Keep track of the stock<br><br>
+When the time allows it, there will also be additional features:    <br>
 -	Implement push-messages when the stock of a certain drink is empty
 -	Implement push-messages when your balance is low or when you have the lowest balance so you have to buy new drinks
 -	Implement chat-functions or other social things 
