@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bierlijst"
+            android:icon="@drawable/ic_menu_myplaces"
+            android:title="@string/menu_bierlijst" />
+        <item
+            android:id="@+id/nav_checkvoorraad"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_checkvoorraad" />
+        <item
+            android:id="@+id/nav_addvoorraad"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_addvoorraad" />
+
+        <item
+            android:id="@+id/nav_informatie"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/menu_information" />
+    </group>
+
+
+</menu>

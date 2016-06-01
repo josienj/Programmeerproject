@@ -13,4 +13,19 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="title_bierlijst">De Bierlijst</string>
+    <string name="title_addstock">Voeg voorraad toe</string>
+    <string name="title_checkstock">Check voorraad</string>
+    <string name="title_information">Informatie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_bierlijst">Bierlijst</string>
+    <string name="menu_checkvoorraad">Check voorraad</string>
+    <string name="menu_addvoorraad">Voeg voorraad toe</string>
+    <string name="menu_instellingen">Instellingen</string>
+    <string name="menu_information">Informatie</string>
 </resources>
